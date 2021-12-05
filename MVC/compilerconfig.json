@@ -1,6 +1,7 @@
 ﻿[
+
   {
-    "outputFile": "node_modules/bootstrap/dist/js/bootstrap.es5.js",
-    "inputFile": "node_modules/bootstrap/dist/js/bootstrap.js"
+    "outputFile": "wwwroot/css/Style.css",
+    "inputFile": "wwwroot/css/StyleSheet.scss"
   }
 ]
